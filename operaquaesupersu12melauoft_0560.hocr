@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaesupersu12melauoft/operaquaesupersu12melauoft_0560.png"; bbox 0 0 2324 2955; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 913 1301 1084 1306">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 913 1301 1084 1306">
+     <span class='ocr_line' id='line_1_1' title="bbox 913 1301 1084 1306; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 913 1301 1084 1306; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 808 1339 1538 1425">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 808 1339 1538 1425">
+     <span class='ocr_line' id='line_1_2' title="bbox 1075 1339 1260 1368; baseline -0.005 0"><span class='ocrx_word' id='word_1_2' title='bbox 1075 1339 1260 1368; x_wconf 60' lang='lat' dir='ltr'>flauas</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 808 1399 1538 1425; baseline -0.004 -1"><span class='ocrx_word' id='word_1_3' title='bbox 808 1400 936 1425; x_wconf 65' lang='lat' dir='ltr'><strong>runs</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 965 1400 1223 1425; x_wconf 68' lang='lat' dir='ltr'><strong>nxpnssssum</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1254 1399 1538 1423; x_wconf 69' lang='lat' dir='ltr'><strong>GnssAussnns.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
